@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 417e6cf79455e3b40896db172eb8b4c5
+timeCreated: 1534925389
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gotham Ultra
+  fontNames:
+  - Gotham Ultra
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
